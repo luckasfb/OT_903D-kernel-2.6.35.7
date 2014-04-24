@@ -1,0 +1,81 @@
+
+; =========================================
+; Please DO NOT modify this section - START
+; =========================================
+SYStem.RESet
+SYStem.CPU ARM926EJ
+;SYStem.JtagClock 1000000.
+SYStem.JtagClock RTCK.
+sys.o cflush on
+jtag.LOCK 
+jtag.pin.enable
+jtag.pin.NRESET LOW
+jtag.pin.NTRST LOW 
+jtag.pin.TCK LOW
+wait 50.ms
+jtag.pin.NRESET HIGH
+wait 600.ms
+jtag.pin.NTRST HIGH
+jtag.UNLOCK 
+sys.m.ATTACH 
+break
+
+setup.IMASKHLL ON
+setup.IMASKASM ON
+
+D.S SD:0x50004000 %LE %LONG 0x4D544B53 ;MTK ID
+
+SYStem.RESet
+SYStem.CPU ARM926EJ
+;SYStem.JtagClock 1000000.
+SYStem.JtagClock RTCK.
+sys.o cflush on
+jtag.LOCK 
+jtag.pin.enable
+jtag.pin.NRESET LOW
+jtag.pin.NTRST LOW 
+jtag.pin.TCK LOW
+wait 50.ms
+jtag.pin.NRESET HIGH
+wait 600.ms
+jtag.pin.NTRST HIGH
+jtag.UNLOCK 
+sys.m.ATTACH 
+break
+
+setup.IMASKHLL ON
+setup.IMASKASM ON
+; =========================================
+; Please DO NOT modify this section - END
+; =========================================
+
+; set_hw_breakpoint_by_def
+; setting attribute of breakpoints
+Break.Select Program OnChip
+Break.Select Hll OnChip
+Break.Select Spot OnChip
+Break.Select Read OnChip
+Break.Select Write OnChip
+
+print "loading pre-loader image"
+
+; =========================================
+; TODO : please replace this ELF file name with yours
+; =========================================
+d.load.elf ../../bin/preloader-mt6516-evb.elf
+
+Y.SPATH.RESET ; reset all source path
+Y.SPATH.SRD ../../src/mt6516/init
+Y.SPATH.SRD ../../src/mt6516/lib
+Y.SPATH.SRD ../../src/mt6516/modules
+
+; =========================================
+; TODO : please replace this CUSTOM folder name with yours
+; =========================================
+Y.SPATH.SRD ../../custom/mt6516-evb
+
+
+
+
+
+

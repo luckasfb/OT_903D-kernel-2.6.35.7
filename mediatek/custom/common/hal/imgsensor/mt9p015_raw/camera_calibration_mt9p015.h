@@ -1,0 +1,8 @@
+
+#ifndef __CAMERA_CALIBRATION_H
+#define __CAMERA_CALIBRATION_H
+
+UINT32 MT9P015GetCalData(UINT32* pGetSensorCalData);
+
+#endif /* __CAMERA_CALIBRATION_H */
+

@@ -1,0 +1,45 @@
+--- ProjectConfig.mk	2013-04-30 10:27:57.671365558 +0300
++++ ProjectConfig.mk.worked	2013-04-24 19:35:45.000000000 +0300
+@@ -136,9 +136,6 @@
+ 
+ CUSTOM_KERNEL_LEDS = mt65xx
+ 
+-# LuckAs may be best to disable?
+-# сюрфэйсфлингер?
+-#CUSTOM_KERNEL_OFN = 
+ CUSTOM_KERNEL_OFN = ofn1090
+ 
+ CUSTOM_KERNEL_MAIN_LENS = dummy
+@@ -161,9 +158,9 @@
+ CUSTOM_KERNEL_SOUND = speaker
+ 
+ # LuckAs find in kernel mcs6024 but not worked, try _proto
+-CUSTOM_KERNEL_TOUCHPANEL = mcs6024_proto 
+-#CUSTOM_KERNEL_TOUCHPANEL = mcs6024 
+-#CUSTOM_KERNEL_TOUCHPANEL =mstar_tp nmcs6024_proto mcs6024_proto 
++CUSTOM_KERNEL_TOUCHPANEL = mcs6024_proto
++#CUSTOM_KERNEL_TOUCHPANEL = mcs6024
++#CUSTOM_KERNEL_TOUCHPANEL =mstar_tp nmcs6024_proto mcs6024_proto
+ #CUSTOM_KERNEL_TOUCHPANEL =mstar_tp nmcs6024_proto 
+ 	# default settings: generic
+ 	# candidate settings: generic;eeti_pcap7200
+@@ -187,13 +184,17 @@
+ #CUSTOM_KERNEL_MAGNETOMETER = mmc328x
+ 
+ # LuckAs disable adxl345, find in kernel bma222 mc34x0
++# ../mediatek/custom/out/jrd73_gb/kernel/accelerometer/adxl345.c: In function 'adxl345_gpio_config':
++#../mediatek/custom/out/jrd73_gb/kernel/accelerometer/adxl345.c:589: error: 'GPIO_GSE_1_EINT_PIN' undeclared (first use in this function)
++#../mediatek/custom/out/jrd73_gb/kernel/accelerometer/adxl345.c:589: error: (Each undeclared identifier is reported only once
++#../mediatek/custom/out/jrd73_gb/kernel/accelerometer/adxl345.c:589: error: for each function it appears in.)
++#../mediatek/custom/out/jrd73_gb/kernel/accelerometer/adxl345.c:589: error: 'GPIO_GSE_1_EINT_PIN_M_GPIO' undeclared (first use in this function
+ CUSTOM_KERNEL_ACCELEROMETER = bma222 mc3430
+ #CUSTOM_KERNEL_ACCELEROMETER = bma222 mc3430 adxl345
+ #CUSTOM_KERNEL_ACCELEROMETER = bma222
+ 
+ # LuckAs find in kernel tmd2771 stk31xx
+-CUSTOM_KERNEL_ALSPS = tmd2771 stk31xx
+-#CUSTOM_KERNEL_ALSPS = tmd2771 cm3623 stk31xx
++CUSTOM_KERNEL_ALSPS = tmd2771 cm3623 stk31xx
+ #CUSTOM_KERNEL_ALSPS = tmd2771
+ 
+ CUSTOM_KERNEL_BAROMETER =

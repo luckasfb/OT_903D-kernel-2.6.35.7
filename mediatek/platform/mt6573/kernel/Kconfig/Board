@@ -1,0 +1,28 @@
+if ARCH_MT6573
+
+menu "MT6573 Board Support Package"
+
+config MAX_DRAM_SIZE_SUPPORT
+	hex "The maximum size of the DRAM can be supported in the kernel"
+	default 0x8000000
+	depends on ARCH_MT6573
+	help
+		Define the maximum size of the kernel can be supported.
+	        If will modify the memory size if it size is smaller than 
+                the memory size passed by the boot loader to the MAX_DRAM_SIZE_SUPPORT.
+   		Notice that the maximum DRAM size is including the memory size
+	        reserved for the modem and the PMEM.
+
+config CPU_FREQ_MT6573
+        bool
+        depends on CPU_FREQ
+        default y
+
+config HAVE_TCM
+        bool "Enable TCM support in MT6516"
+        select GENERIC_ALLOCATOR
+        default y
+
+endmenu
+
+endif

@@ -1,0 +1,53 @@
+config MT592X
+	tristate "MediaTek MT592x driver support"
+	depends on WLAN_80211
+	select WIRELESS_EXT
+
+config MT5921
+	bool "MediaTek MT5921 WLAN card"
+	depends on MT592X
+
+config MT5922
+	bool "MediaTek MT5922 WLAN card"
+	depends on MT592X
+
+config MT592X_DEBUG
+	bool "MediaTek MT592x debug support"
+	depends on MT592X
+
+config MT592X_PROC
+	bool "MediaTek MT592x proc support"
+	depends on MT592X
+
+config MT592X_IBSS
+	bool "MediaTek MT592x IBSS support"
+	depends on MT592X
+
+config MT592X_SW_ENC
+	bool "MediaTek MT592x software encrypt support"
+	depends on MT592X
+
+config MT592X_WPS
+	bool "MediaTek MT592x WPS support"
+	depends on MT592X
+
+config MT592X_EEPROM
+	bool "MediaTek MT592x EEPROM support"
+	depends on MT592X
+
+config MT592X_WAPI
+	bool "MediaTek MT592x WAPI support"
+	depends on MT592X
+
+config MT592X_PTA
+	bool "MediaTek MT592x PTA support"
+	depends on MT592X
+
+#config MT592X_SDIO
+#	bool "MediaTek MT592x SDIO support"
+#	depends on MT592X && MMC
+
+#config MT592X_SDIO_CLNT
+#	tristate "MediaTek MT592X SDIO CLNT support"
+#	depends on MMC 
+

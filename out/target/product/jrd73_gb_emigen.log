@@ -1,0 +1,58 @@
+Os = linux
+mediatek/custom/jrd73_gb/preloader/inc/custom_MemoryDevice.h
+mediatek/build/tools/emigen/MT6573/MemoryDeviceList_MT6573.xls
+MT6573
+mediatek/custom/jrd73_gb/preloader/inc/custom_emi.h
+mediatek/custom/jrd73_gb/preloader/custom_emi.c
+mediatek/custom/jrd73_gb/preloader/MTK_Loader_Info.tag
+mediatek/custom/jrd73_gb/uboot/inc/memory_info.h
+
+2
+
+iter:0
+
+CustNAND_ID[0]:
+
+0, cs0
+
+emigen:0x1000e
+EMI_GEND is 0x1000e
+H9DA4GH2GJAMCR_4EM ,  ,  ,  
+
+iter:1
+
+CustNAND_ID[1]:
+
+1, cs0
+
+emigen:0x1000e
+EMI_GEND is 0x1000e
+MT29C4G48MAZAPAKD_5IT ,  ,  ,  
+Device Type : LPSDRAM  , 
+num is 0, nandID is 
+[1][scan_idx]EQ null, 7
+[2][scan_idx]EQ null, 6
+
+PartNum(H9DA4GH2GJAMCR_4EM==H9DA4GH2GJAMCR_4EM) found in row 20
+
+Hynix,2048, NANDID is 0xADBC
+
+
+
+num is 1, nandID is 
+[1][scan_idx]EQ null, 7
+[2][scan_idx]EQ null, 6
+
+PartNum(MT29C4G48MAZAPAKD_5IT==MT29C4G48MAZAPAKD_5IT) found in row 21
+
+Micron,2048, NANDID is 0x2CBC
+
+
+
+mediatek/custom/jrd73_gb/preloader/custom_emi.c is generated
+
+mediatek/custom/jrd73_gb/preloader/inc/custom_emi.h is generated
+
+mediatek/custom/jrd73_gb/uboot/inc/memory_info.h is generated
+PROJECT = jrd73_gb, pre_bin = preloader_jrd73_gb.bin
+mediatek/custom/jrd73_gb/preloader/MTK_Loader_Info.tag is generated!

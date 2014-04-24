@@ -1,0 +1,2339 @@
+Archive member included because of file (symbol)
+
+/home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_boot.o)
+                              /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_boot.o (seclib_sec_boot_enabled)
+/home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib.o)
+                              /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec.o (seclib_init)
+/home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_util.o)
+                              /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_boot.o) (seclib_image_hash_verify)
+/home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej_export.o)
+                              /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/main.o (sp_check_platform)
+/home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej.o)
+                              /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej_export.o) (sej_set_key)
+/home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(efuse.o)
+                              /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_boot.o) (seclib_sbc_enabled)
+/home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(pllib_sha1.o)
+                              /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_util.o) (sha1)
+/home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_dl.o)
+                              /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib.o) (seclib_sec_usbdl_enabled)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/assembly.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/assembly.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/assembly.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/circbuf.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/circbuf.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/circbuf.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/circbuf.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/cust_gpio.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/cust_gpio.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/cust_gpio.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/cust_gpio.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/custom_emi.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/custom_emi.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/custom_emi.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/custom_emi.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/cust_sdc.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/cust_sdc.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/cust_sdc.o
+ .data.msdc_hw0
+                0x00000000       0x34 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/cust_sdc.o
+ .data.cust_msdc_hw
+                0x00000000       0x10 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/cust_sdc.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/cust_sdc.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/device_apc.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/device_apc.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/device_apc.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/device_apc.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/div0.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/div0.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/div0.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/div0.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/_eabi_idiv.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/_eabi_idiv.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/_eabi.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/_eabi.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/emi_datatrain.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/emi_datatrain.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/emi_datatrain.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/emi_datatrain.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/main.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/main.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/main.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/main.o
+ .text          0x00000000       0xbc /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/memory_test.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/memory_test.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/memory_test.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_common_inter.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_common_inter.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_common_inter.o
+ .text.mmc_get_storge_info
+                0x00000000       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_common_inter.o
+ .text.mmc_find_safe_block
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_common_inter.o
+ .text.mmc_erase_data
+                0x00000000        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_common_inter.o
+ .text.mmc_wait_ready
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_common_inter.o
+ .text.mmc_chksum_body
+                0x00000000       0x24 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_common_inter.o
+ .text.mmc_device_init
+                0x00000000       0x30 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_common_inter.o
+ .text.mmc_write_data
+                0x00000000       0x3c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_common_inter.o
+ .text.mmc_read_data
+                0x00000000       0x48 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_common_inter.o
+ .text.mmc_chksum_per_file
+                0x00000000       0xb0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_common_inter.o
+ .bss.mmc_gdevice_info
+                0x00000000        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_common_inter.o
+ .rodata.str1.1
+                0x00000000       0x59 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_common_inter.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_common_inter.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.unstuff_bits
+                0x00000000       0x40 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_get_host
+                0x00000000       0x14 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_get_card
+                0x00000000       0x14 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_hard_reset
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_decode_cid
+                0x00000000      0x338 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_init_host
+                0x00000000       0x28 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_card_avail
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_card_protected
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_cmd  0x00000000       0x34 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_app_cmd
+                0x00000000       0x7c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_set_card_detect
+                0x00000000       0x48 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_set_blk_count
+                0x00000000       0x3c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_select_card
+                0x00000000       0x44 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_go_idle
+                0x00000000       0x38 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_send_app_op_cond
+                0x00000000       0xa8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_send_op_cond
+                0x00000000       0xac /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_dump_ext_csd
+                0x00000000      0x55c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_set_blk_length
+                0x00000000       0x5c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_read_ext_csd
+                0x00000000      0x23c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_set_clock
+                0x00000000       0x2c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_block_read
+                0x00000000       0xd0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_dump_card_status
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_send_status
+                0x00000000       0x60 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_block_write
+                0x00000000      0x144 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_switch
+                0x00000000       0xd0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_set_erase_grp_def
+                0x00000000       0x50 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_set_bus_width
+                0x00000000      0x1e0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_sd_switch.clone.0
+                0x00000000      0x17c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_switch_hs
+                0x00000000       0x70 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_init_mem_card
+                0x00000000     0x1140 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_init_card
+                0x00000000      0x168 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text.mmc_legacy_init
+                0x00000000       0x78 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .rodata.tran_mant
+                0x00000000       0x10 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .bss.sd_card   0x00000000      0x2d8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .rodata.mmc_tran_mant
+                0x00000000       0x10 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .bss.sd_host   0x00000000       0x58 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .rodata.sd_csd_ver.1967
+                0x00000000        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .rodata.mmc_cmd_cls.1969
+                0x00000000       0x30 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .rodata.str1.1
+                0x00000000     0x116e /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .rodata.sd_cmd_cls.1970
+                0x00000000       0x30 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .rodata.C.10.2020
+                0x00000000       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .rodata.tran_exp
+                0x00000000       0x20 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .rodata.tacc_exp
+                0x00000000       0x20 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .rodata.tacc_mant
+                0x00000000       0x40 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .rodata.mmc_csd_ver.1968
+                0x00000000       0x10 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mmc_core.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_ap_rosc_test.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_ap_rosc_test.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_ap_rosc_test.o
+ .text.rosc_cor_test
+                0x00000000       0xc4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_ap_rosc_test.o
+ .text.mt6573_rosc_characterization
+                0x00000000      0x400 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_ap_rosc_test.o
+ .rodata.str1.1
+                0x00000000      0x3d0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_ap_rosc_test.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_ap_rosc_test.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_bat.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_bat.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_bat.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_bat.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+ .text.fill_internal_imgp
+                0x00000000       0x50 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download_utility.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download_utility.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download_utility.o
+ .text.get_part_name
+                0x00000000       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download_utility.o
+ .rodata.CSWTCH.4
+                0x00000000      0x1a0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download_utility.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download_utility.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+ .text.mt_get_gpio_dir
+                0x00000000       0x38 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+ .text.mt_get_gpio_pull_enable
+                0x00000000       0x3c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+ .text.mt_get_gpio_pull_select
+                0x00000000       0x3c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+ .text.mt_set_gpio_inversion
+                0x00000000       0x74 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+ .text.mt_get_gpio_inversion
+                0x00000000       0x3c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+ .text.mt_get_gpio_out
+                0x00000000       0x3c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+ .text.mt_get_gpio_in
+                0x00000000       0x3c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+ .text.mt_get_gpio_mode
+                0x00000000       0x50 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+ .text.mt_gpio_read_pin
+                0x00000000      0x208 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+ .text.mt_gpio_dump_addr
+                0x00000000      0x24c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+ .text.mt_gpio_dump
+                0x00000000      0x220 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+ .text.mt_gpio_self_test
+                0x00000000      0x504 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+ .rodata.str1.1
+                0x00000000      0x713 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_i2c.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_i2c.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_i2c.o
+ .text.mt6516_i2c_reset
+                0x00000000        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_i2c.o
+ .text.mt6516_i2c_write
+                0x00000000       0xec /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_i2c.o
+ .text.mt6516_i2c_write_byte
+                0x00000000       0x38 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_i2c.o
+ .text.mt6516_i2c_read
+                0x00000000      0x100 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_i2c.o
+ .text.mt6516_i2c_read_byte
+                0x00000000       0x5c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_i2c.o
+ .text.mt6516_i2c_init
+                0x00000000      0x138 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_i2c.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_i2c.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_key.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_key.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_key.o
+ .text.mt6573_detect_dl_keys
+                0x00000000       0x50 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_key.o
+ .rodata.str1.1
+                0x00000000       0x1b /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_key.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_key.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_memory.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_memory.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_memory.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_memory.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_partition.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_partition.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_partition.o
+ .bss.mt6516_parts
+                0x00000000      0x190 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_partition.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_partition.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pdn.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pdn.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pdn.o
+ .text.PDN_Get_Peri_Status
+                0x00000000       0x20 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pdn.o
+ .text.PDN_Power_CONB_DOWN
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pdn.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pdn.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmic6326.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmic6326.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmic6326.o
+ .text.pmic_vbus_enable
+                0x00000000       0x20 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmic6326.o
+ .text.pmic_boost1_enable
+                0x00000000       0x54 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmic6326.o
+ .text.pmic_bl_enable
+                0x00000000       0x7c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmic6326.o
+ .text.pmic_backlight_control
+                0x00000000       0x30 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmic6326.o
+ .text.pmic_vbt_sel
+                0x00000000       0xb0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmic6326.o
+ .text.pmic_config_interface
+                0x00000000       0x34 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmic6326.o
+ .text.pmic_int_ctrl_enable
+                0x00000000       0x28 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmic6326.o
+ .text.pmic_init
+                0x00000000      0x330 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmic6326.o
+ .bss.pmic6326_vboost1_set_flag
+                0x00000000        0x1 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmic6326.o
+ .bss.pmic6326_reg
+                0x00000000       0x98 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmic6326.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmic6326.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmu.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmu.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmu.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmu.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_rtc.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_rtc.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_rtc.o
+ .text.rtc_dl_bit_check
+                0x00000000       0x48 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_rtc.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_rtc.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.uffs     0x00000000       0x4c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_dump_card_status
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_dump_ocr_reg
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_dump_rca_resp
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_set_timeout
+                0x00000000       0x8c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_set_fifothd
+                0x00000000       0x44 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_set_blklen
+                0x00000000       0x5c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_set_blknum
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_clear_fifo
+                0x00000000       0x14 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_card_detect
+                0x00000000      0x244 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_config_clksrc
+                0x00000000      0x120 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_switch_volt
+                0x00000000        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_tune_uhs1
+                0x00000000        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_clock
+                0x00000000       0x5c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_card_avail
+                0x00000000       0x4c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_card_protected
+                0x00000000       0x1c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_soft_reset
+                0x00000000       0x2c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_reset_pin
+                0x00000000      0x120 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_config_pin
+                0x00000000      0x248 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_config_bus
+                0x00000000       0x5c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_dma_data_status
+                0x00000000       0x64 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_pio_write
+                0x00000000       0xf8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_pio_read
+                0x00000000       0xc0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.mdelay   0x00000000       0x28 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_hard_reset
+                0x00000000       0x38 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_card_power
+                0x00000000       0x74 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_host_power
+                0x00000000       0xac /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_power
+                0x00000000       0x44 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_config_clock
+                0x00000000      0x1fc /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_init
+                0x00000000      0x494 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_cmd
+                0x00000000      0x2b4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_dma_bwrite
+                0x00000000      0x3ec /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text.msdc_dma_bread
+                0x00000000      0x3cc /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .rodata.C.241.3550
+                0x00000000       0x10 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .rodata.C.121.3025
+                0x00000000       0x10 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .bss.msdc_dma_reg
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .rodata.str1.1
+                0x00000000      0x220 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .rodata.msdc_rsp
+                0x00000000       0x24 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .rodata.C.120.3024
+                0x00000000       0x10 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .bss.msdc_dma_chnl
+                0x00000000        0xc /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_sdc.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_timer.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_timer.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_timer.o
+ .text.gpt4_busy_wait_us
+                0x00000000       0x70 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_timer.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_timer.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+ .text.mt_usb_connected
+                0x00000000       0x14 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+ .text.udc_disable
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbphy.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbphy.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbphy.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbphy.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .text.mt6573_usbtty_putc
+                0x00000000       0x54 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .text.mt6573_usbtty_getc
+                0x00000000       0x38 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .text.mt6573_usbtty_tstc
+                0x00000000       0x20 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .bss.serialstate
+                0x00000000        0x2 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .text.hw_watchdog_disable
+                0x00000000       0x24 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .text.MT6573_sw_watchdog_reset
+                0x00000000       0x30 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .text.MT6573_wdt_CheckStatus
+                0x00000000       0x10 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .text.MT6573_wdt_ModeSelection
+                0x00000000       0x58 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .text.MT6573_wdt_SetTimeOutValue
+                0x00000000       0x28 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .text.MT6573_wdt_Restart
+                0x00000000       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .text.WDT_HW_Reset
+                0x00000000       0x50 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .text.hw_watchdog_reset
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .text.mt6573_watchdog_init
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .text.WDT_init
+                0x00000000       0x44 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .text.WDT_arch_reset
+                0x00000000       0x50 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .text.WDT_SW_Reset
+                0x00000000       0x48 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+ .text.LOGICAL_ADDR
+                0x00000000       0x14 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+ .text.BLOCK_ALIGN
+                0x00000000       0x20 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+ .text.mt6573_nand_wait_for_finish
+                0x00000000       0x1c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+ .data.nand_manuf_ids
+                0x00000000       0x50 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+ .bss.nand_flash_ids
+                0x00000000       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/partition_mt.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/partition_mt.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/partition_mt.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/partition_mt.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/pll.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/pll.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/pll.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/pll.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/relocate.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/relocate.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/relocate.o
+ .text.reloc_preloader
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/relocate.o
+ .bss.g_3des_inter_addr
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/relocate.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/relocate.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_boot.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_boot.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_boot.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_boot.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_ctrl.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_ctrl.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_ctrl.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_ctrl.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_rom_info.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_rom_info.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_rom_info.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_rom_info.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_ro.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_ro.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_ro.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_ro.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_util.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_util.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_util.o
+ .text.sec_util_get_img_buf
+                0x00000000        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_util.o
+ .text.sec_util_read_image
+                0x00000000       0xd4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_util.o
+ .rodata.str1.1
+                0x00000000       0x19 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_util.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_util.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/string.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/string.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/string.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/string.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/tool_detection_via_uart.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/tool_detection_via_uart.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/tool_detection_via_uart.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/tool_detection_via_uart.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/tool_detection_via_usb.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/tool_detection_via_usb.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/tool_detection_via_usb.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/tool_detection_via_usb.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+ .text.PutUARTByte
+                0x00000000       0x3c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+ .text.uart1_as_tool_port_accord_dynamic_setting
+                0x00000000       0x28 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+ .text.uart1_as_log_port_accord_dynamic_setting
+                0x00000000       0x28 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+ .rodata.CSWTCH.22
+                0x00000000        0xc /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+ .rodata.CSWTCH.25
+                0x00000000        0xc /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_boot.o)
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_boot.o)
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_boot.o)
+ .text.seclib_image_info_update
+                0x00000000        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_boot.o)
+ .text.seclib_image_info_add
+                0x00000000        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_boot.o)
+ .text.seclib_image_verify
+                0x00000000      0x1c8 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_boot.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_boot.o)
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib.o)
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib.o)
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib.o)
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_util.o)
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_util.o)
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_util.o)
+ .text.seclib_image_hash_dump
+                0x00000000       0x58 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_util.o)
+ .text.seclib_image_hash_compute
+                0x00000000       0x38 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_util.o)
+ .text.seclib_image_hash_verify
+                0x00000000      0x154 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_util.o)
+ .rodata.str1.1
+                0x00000000       0x3f /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_util.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_util.o)
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej_export.o)
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej_export.o)
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej_export.o)
+ .text.sp_sej_deinit
+                0x00000000        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej_export.o)
+ .text.sp_sej_enc
+                0x00000000       0x4c /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej_export.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej_export.o)
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej.o)
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej.o)
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej.o)
+ .text.sej_set_clk
+                0x00000000       0x2c /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej.o)
+ .text.sej_deinit
+                0x00000000       0x30 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej.o)
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(efuse.o)
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(efuse.o)
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(efuse.o)
+ .text.seclib_daa_enabled
+                0x00000000       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(efuse.o)
+ .text.seclib_sla_enabled
+                0x00000000       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(efuse.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(efuse.o)
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(pllib_sha1.o)
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(pllib_sha1.o)
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(pllib_sha1.o)
+ .text.sha1_starts
+                0x00000000       0x4c /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(pllib_sha1.o)
+ .text.sha1_process
+                0x00000000     0x17c0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(pllib_sha1.o)
+ .text.sha1_update
+                0x00000000       0xb8 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(pllib_sha1.o)
+ .text.sha1_finish
+                0x00000000      0x140 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(pllib_sha1.o)
+ .text.sha1     0x00000000       0x90 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(pllib_sha1.o)
+ .bss.sha1sum   0x00000000       0x14 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(pllib_sha1.o)
+ .rodata.sha1_padding
+                0x00000000       0x40 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(pllib_sha1.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(pllib_sha1.o)
+ .text          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_dl.o)
+ .data          0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_dl.o)
+ .bss           0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_dl.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_dl.o)
+
+Memory map
+
+ ** file header
+                0x90007000       0x34
+ ** segment headers
+                0x90007034       0x60
+
+.start          0x90007300       0xb4
+ .text.start    0xffffffffffffffff       0xb4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/assembly.o
+                0x90007300                _start
+                0x90007304                _bss_globl_start
+                0x900073b0                JumpCmd
+
+.rom_info       0x900074fc      0x3c0
+ .text.rom_info
+                0x900074fc      0x3c0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_rom_info.o
+                0x900074fc                g_ROM_INFO
+
+.text           0x900078c0      0x208
+ .text          0x900078c0      0x140 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/_eabi_idiv.o
+                0x900078c0                __divsi3
+                0x900078c0                __aeabi_idiv
+ .text          0xffffffffffffffff       0xc8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/_eabi.o
+                0x90007a00                __udivsi3
+                0x90007a00                __aeabi_uidiv
+                0x90007a98                __aeabi_uidivmod
+                0x90007ab0                __aeabi_idivmod
+
+.text.get_mapping_block_index
+                0x90007ac8       0xcc
+ .text.get_mapping_block_index
+                0xffffffffffffffff       0xcc /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+                0x90007ac8                get_mapping_block_index
+
+.text.fill_nand_bmt_buffer
+                0x90007b94      0x118
+ .text.fill_nand_bmt_buffer
+                0xffffffffffffffff      0x118 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+
+.text.set_bad_index_to_oob
+                0x90007cac       0x20
+ .text.set_bad_index_to_oob
+                0xffffffffffffffff       0x20 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+                0x90007cac                set_bad_index_to_oob
+
+.text.nand_write_page_bmt
+                0x90007ccc       0x10
+ .text.nand_write_page_bmt
+                0xffffffffffffffff       0x10 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+                0x90007ccc                nand_write_page_bmt
+
+.text.mark_block_bad_bmt
+                0x90007cdc        0xc
+ .text.mark_block_bad_bmt
+                0xffffffffffffffff        0xc /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+                0x90007cdc                mark_block_bad_bmt
+
+.text.nand_erase_bmt
+                0x90007ce8        0x4
+ .text.nand_erase_bmt
+                0xffffffffffffffff        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+                0x90007ce8                nand_erase_bmt
+
+.text.nand_block_bad_bmt
+                0x90007cec        0x4
+ .text.nand_block_bad_bmt
+                0xffffffffffffffff        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+                0x90007cec                nand_block_bad_bmt
+
+.text.find_available_block_reserve
+                0x90007cf0       0x70
+ .text.find_available_block_reserve
+                0xffffffffffffffff       0x70 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+
+.text.map_reserve_region
+                0x90007d60       0xd4
+ .text.map_reserve_region
+                0xffffffffffffffff       0xd4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+
+.text.set_bmt_reserve_region
+                0x90007e34       0x88
+ .text.set_bmt_reserve_region
+                0xffffffffffffffff       0x88 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+                0x90007e34                set_bmt_reserve_region
+
+.text.find_available_block
+                0x90007ebc      0x228
+ .text.find_available_block
+                0xffffffffffffffff      0x228 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+
+.text.write_bmt_to_flash
+                0x900080e4      0x11c
+ .text.write_bmt_to_flash
+                0xffffffffffffffff      0x11c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+
+.text.nand_read_page_bmt
+                0x90008200        0x4
+ .text.nand_read_page_bmt
+                0xffffffffffffffff        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+                0x90008200                nand_read_page_bmt
+
+.text.migrate_from_bad
+                0x90008204      0x2d0
+ .text.migrate_from_bad
+                0xffffffffffffffff      0x2d0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+
+.text.update_bmt
+                0x900084d4      0x1e8
+ .text.update_bmt
+                0xffffffffffffffff      0x1e8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+                0x900084d4                update_bmt
+
+.text.reconstruct_bmt
+                0x900086bc      0x1f4
+ .text.reconstruct_bmt
+                0xffffffffffffffff      0x1f4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+                0x900086bc                reconstruct_bmt
+
+.text.init_bmt  0x900088b0      0x380
+ .text.init_bmt
+                0xffffffffffffffff      0x380 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+                0x900088b0                init_bmt
+
+.text.buf_pop   0x90008c30       0x64
+ .text.buf_pop  0xffffffffffffffff       0x64 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/circbuf.o
+                0x90008c30                buf_pop
+
+.text.buf_push  0x90008c94       0x4c
+ .text.buf_push
+                0xffffffffffffffff       0x4c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/circbuf.o
+                0x90008c94                buf_push
+
+.text.buf_output_init
+                0x90008ce0       0x78
+ .text.buf_output_init
+                0xffffffffffffffff       0x78 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/circbuf.o
+                0x90008ce0                buf_output_init
+
+.text.buf_input_init
+                0x90008d58       0x78
+ .text.buf_input_init
+                0xffffffffffffffff       0x78 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/circbuf.o
+                0x90008d58                buf_input_init
+
+.text.primary_sys_init
+                0x90008dd0        0x4
+ .text.primary_sys_init
+                0xffffffffffffffff        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x90008dd0                primary_sys_init
+
+.text.pl_security_init
+                0x90008dd4        0x4
+ .text.pl_security_init
+                0xffffffffffffffff        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x90008dd4                pl_security_init
+
+.text.pl_operate_clock
+                0x90008dd8       0x14
+ .text.pl_operate_clock
+                0xffffffffffffffff       0x14 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x90008dd8                pl_operate_clock
+
+.text.load_partition_image
+                0x90008dec       0x20
+ .text.load_partition_image
+                0xffffffffffffffff       0x20 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x90008dec                load_partition_image
+
+.text.check_partition_info
+                0x90008e0c       0x9c
+ .text.check_partition_info
+                0xffffffffffffffff       0x9c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x90008e0c                check_partition_info
+
+.text.get_partition_info
+                0x90008ea8       0x30
+ .text.get_partition_info
+                0xffffffffffffffff       0x30 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x90008ea8                get_partition_info
+
+.text.pl_load_uboot_image
+                0x90008ed8       0xb4
+ .text.pl_load_uboot_image
+                0xffffffffffffffff       0xb4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x90008ed8                pl_load_uboot_image
+
+.text.meta_detection_via_uart
+                0x90008f8c       0x40
+ .text.meta_detection_via_uart
+                0xffffffffffffffff       0x40 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x90008f8c                meta_detection_via_uart
+
+.text.meta_detection_via_usb
+                0x90008fcc       0x50
+ .text.meta_detection_via_usb
+                0xffffffffffffffff       0x50 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x90008fcc                meta_detection_via_usb
+
+.text.pl_do_other_function
+                0x9000901c        0x4
+ .text.pl_do_other_function
+                0xffffffffffffffff        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x9000901c                pl_do_other_function
+
+.text.pl_security_check
+                0x90009020       0x10
+ .text.pl_security_check
+                0xffffffffffffffff       0x10 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x90009020                pl_security_check
+
+.text.check_uart_switch_keys
+                0x90009030       0x50
+ .text.check_uart_switch_keys
+                0xffffffffffffffff       0x50 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x90009030                check_uart_switch_keys
+
+.text.check_boot_reason
+                0x90009080       0xa8
+ .text.check_boot_reason
+                0xffffffffffffffff       0xa8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x90009080                check_boot_reason
+
+.text.pl_check_boot_reason
+                0x90009128       0x4c
+ .text.pl_check_boot_reason
+                0xffffffffffffffff       0x4c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x90009128                pl_check_boot_reason
+
+.text.register_storage_device
+                0x90009174       0x28
+ .text.register_storage_device
+                0xffffffffffffffff       0x28 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x90009174                register_storage_device
+
+.text.read_device_data
+                0x9000919c        0x4
+ .text.read_device_data
+                0xffffffffffffffff        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x9000919c                read_device_data
+
+.text.pl_sys_init
+                0x900091a0      0x134
+ .text.pl_sys_init
+                0xffffffffffffffff      0x134 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x900091a0                pl_sys_init
+
+.text.mt6573_gpio_init
+                0x900092d4      0x1b8
+ .text.mt6573_gpio_init
+                0xffffffffffffffff      0x1b8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/cust_gpio.o
+                0x900092d4                mt6573_gpio_init
+
+.text.Custom_EMI_InitDDR
+                0x9000948c      0x404
+ .text.Custom_EMI_InitDDR
+                0xffffffffffffffff      0x404 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/custom_emi.o
+                0x9000948c                Custom_EMI_InitDDR
+
+.text.mt6573_set_emi
+                0x90009890       0x24
+ .text.mt6573_set_emi
+                0xffffffffffffffff       0x24 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/custom_emi.o
+                0x90009890                mt6573_set_emi
+
+.text.uffs      0x900098b4       0x4c
+ .text.uffs     0xffffffffffffffff       0x4c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/device_apc.o
+
+.text.device_APC_dom_setup
+                0x90009900       0xc0
+ .text.device_APC_dom_setup
+                0xffffffffffffffff       0xc0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/device_apc.o
+                0x90009900                device_APC_dom_setup
+
+.text.__div0    0x900099c0        0x4
+ .text.__div0   0xffffffffffffffff        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/div0.o
+                0x900099c0                __div0
+
+.text.__EmiDataTRainMbistTest
+                0x900099c4      0x100
+ .text.__EmiDataTRainMbistTest
+                0xffffffffffffffff      0x100 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/emi_datatrain.o
+                0x900099c4                __EmiDataTRainMbistTest
+
+.text.__EmiDataTrainRegRead
+                0x90009ac4       0xa8
+ .text.__EmiDataTrainRegRead
+                0xffffffffffffffff       0xa8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/emi_datatrain.o
+                0x90009ac4                __EmiDataTrainRegRead
+
+.text.__EmiDataTrainRegWrite
+                0x90009b6c       0xa8
+ .text.__EmiDataTrainRegWrite
+                0xffffffffffffffff       0xa8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/emi_datatrain.o
+                0x90009b6c                __EmiDataTrainRegWrite
+
+.text._EmiDataTrain
+                0x90009c14      0x6bc
+ .text._EmiDataTrain
+                0xffffffffffffffff      0x6bc /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/emi_datatrain.o
+                0x90009c14                _EmiDataTrain
+
+.text.delay     0x9000a2d0        0x4
+ .text.delay    0xffffffffffffffff        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/main.o
+                0x9000a2d0                delay
+
+.text.pl_print_title
+                0x9000a2d4       0x2c
+ .text.pl_print_title
+                0xffffffffffffffff       0x2c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/main.o
+                0x9000a2d4                pl_print_title
+
+.text.C_Main    0x9000a300       0xac
+ .text.C_Main   0xffffffffffffffff       0xac /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/main.o
+                0x9000a300                C_Main
+
+.text.force_erase
+                0x9000a3ac       0x90
+ .text.force_erase
+                0xffffffffffffffff       0x90 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9000a3ac                force_erase
+
+.text.handle_erase
+                0x9000a43c       0x2c
+ .text.handle_erase
+                0xffffffffffffffff       0x2c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9000a43c                handle_erase
+
+.text.prepare_data_buf
+                0x9000a468       0x1c
+ .text.prepare_data_buf
+                0xffffffffffffffff       0x1c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9000a468                prepare_data_buf
+
+.text.handle_errp
+                0x9000a484       0x3c
+ .text.handle_errp
+                0xffffffffffffffff       0x3c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9000a484                handle_errp
+
+.text.handle_pl_info
+                0x9000a4c0       0xb8
+ .text.handle_pl_info
+                0xffffffffffffffff       0xb8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9000a4c0                handle_pl_info
+
+.text.save_imgp
+                0x9000a578      0x12c
+ .text.save_imgp
+                0xffffffffffffffff      0x12c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9000a578                save_imgp
+
+.text.handle_cksm
+                0x9000a6a4       0x90
+ .text.handle_cksm
+                0xffffffffffffffff       0x90 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9000a6a4                handle_cksm
+
+.text.handle_autoboot
+                0x9000a734       0x48
+ .text.handle_autoboot
+                0xffffffffffffffff       0x48 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9000a734                handle_autoboot
+
+.text.handle_reboot
+                0x9000a77c       0x28
+ .text.handle_reboot
+                0xffffffffffffffff       0x28 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9000a77c                handle_reboot
+
+.text.handle_update
+                0x9000a7a4       0x44
+ .text.handle_update
+                0xffffffffffffffff       0x44 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9000a7a4                handle_update
+
+.text.check_pt_cmd
+                0x9000a7e8      0x170
+ .text.check_pt_cmd
+                0xffffffffffffffff      0x170 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9000a7e8                check_pt_cmd
+
+.text.handle_pt_cmd
+                0x9000a958       0x20
+ .text.handle_pt_cmd
+                0xffffffffffffffff       0x20 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9000a958                handle_pt_cmd
+
+.text.check_imgp
+                0x9000a978      0x20c
+ .text.check_imgp
+                0xffffffffffffffff      0x20c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9000a978                check_imgp
+
+.text.handle_midle_state
+                0x9000ab84      0x138
+ .text.handle_midle_state
+                0xffffffffffffffff      0x138 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9000ab84                handle_midle_state
+
+.text.handle_imgp
+                0x9000acbc       0xac
+ .text.handle_imgp
+                0xffffffffffffffff       0xac /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9000acbc                handle_imgp
+
+.text.handle_data
+                0x9000ad68      0x19c
+ .text.handle_data
+                0xffffffffffffffff      0x19c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9000ad68                handle_data
+
+.text.transmission_main
+                0x9000af04      0x118
+ .text.transmission_main
+                0xffffffffffffffff      0x118 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9000af04                transmission_main
+
+.text.get_img_fmt
+                0x9000b01c       0x1c
+ .text.get_img_fmt
+                0xffffffffffffffff       0x1c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download_utility.o
+                0x9000b01c                get_img_fmt
+
+.text.reset_dm_descriptor
+                0x9000b038       0x44
+ .text.reset_dm_descriptor
+                0xffffffffffffffff       0x44 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download_utility.o
+                0x9000b038                reset_dm_descriptor
+
+.text.cal_chksum_per_pkt
+                0x9000b07c       0x48
+ .text.cal_chksum_per_pkt
+                0xffffffffffffffff       0x48 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download_utility.o
+                0x9000b07c                cal_chksum_per_pkt
+
+.text.judge_pkt_type
+                0x9000b0c4      0x108
+ .text.judge_pkt_type
+                0xffffffffffffffff      0x108 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download_utility.o
+                0x9000b0c4                judge_pkt_type
+
+.text.do_reboot
+                0x9000b1cc        0x8
+ .text.do_reboot
+                0xffffffffffffffff        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download_utility.o
+                0x9000b1cc                do_reboot
+
+.text.get_img_type
+                0x9000b1d4      0x124
+ .text.get_img_type
+                0xffffffffffffffff      0x124 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download_utility.o
+                0x9000b1d4                get_img_type
+
+.text.mt_set_gpio_dir
+                0x9000b2f8       0x6c
+ .text.mt_set_gpio_dir
+                0xffffffffffffffff       0x6c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+                0x9000b2f8                mt_set_gpio_dir
+
+.text.mt_set_gpio_pull_enable
+                0x9000b364       0x70
+ .text.mt_set_gpio_pull_enable
+                0xffffffffffffffff       0x70 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+                0x9000b364                mt_set_gpio_pull_enable
+
+.text.mt_set_gpio_pull_select
+                0x9000b3d4       0x74
+ .text.mt_set_gpio_pull_select
+                0xffffffffffffffff       0x74 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+                0x9000b3d4                mt_set_gpio_pull_select
+
+.text.mt_set_gpio_out
+                0x9000b448       0x74
+ .text.mt_set_gpio_out
+                0xffffffffffffffff       0x74 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+                0x9000b448                mt_set_gpio_out
+
+.text.mt_set_gpio_mode
+                0x9000b4bc       0x6c
+ .text.mt_set_gpio_mode
+                0xffffffffffffffff       0x6c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+                0x9000b4bc                mt_set_gpio_mode
+
+.text.mt6573_detect_key
+                0x9000b528       0x58
+ .text.mt6573_detect_key
+                0xffffffffffffffff       0x58 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_key.o
+                0x9000b528                mt6573_detect_key
+
+.text.key_boot_detect
+                0x9000b580        0x4
+ .text.key_boot_detect
+                0xffffffffffffffff        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_key.o
+                0x9000b580                key_boot_detect
+
+.text.complex_mem_test
+                0x9000b584      0x674
+ .text.complex_mem_test
+                0xffffffffffffffff      0x674 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_memory.o
+                0x9000b584                complex_mem_test
+
+.text.mt6573_mem_init
+                0x9000bbf8       0x48
+ .text.mt6573_mem_init
+                0xffffffffffffffff       0x48 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_memory.o
+                0x9000bbf8                mt6573_mem_init
+
+.text.mt6573_part_get_partition
+                0x9000bc40       0xc4
+ .text.mt6573_part_get_partition
+                0xffffffffffffffff       0xc4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_partition.o
+                0x9000bc40                mt6573_part_get_partition
+
+.text.mt6573_part_init
+                0x9000bd04      0x2c4
+ .text.mt6573_part_init
+                0xffffffffffffffff      0x2c4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_partition.o
+                0x9000bd04                mt6573_part_init
+
+.text.PDN_Power_CONA_DOWN
+                0x9000bfc8        0x4
+ .text.PDN_Power_CONA_DOWN
+                0xffffffffffffffff        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pdn.o
+                0x9000bfc8                PDN_Power_CONA_DOWN
+
+.text.PMU_IsUsbCableIn
+                0x9000bfcc       0x18
+ .text.PMU_IsUsbCableIn
+                0xffffffffffffffff       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmu.o
+                0x9000bfcc                PMU_IsUsbCableIn
+
+.text.hw_set_cc
+                0x9000bfe4       0xa8
+ .text.hw_set_cc
+                0xffffffffffffffff       0xa8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmu.o
+                0x9000bfe4                hw_set_cc
+
+.text.hw_charger_type_detection
+                0x9000c08c      0x28c
+ .text.hw_charger_type_detection
+                0xffffffffffffffff      0x28c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmu.o
+                0x9000c08c                hw_charger_type_detection
+
+.text.pl_pmu_init
+                0x9000c318       0x98
+ .text.pl_pmu_init
+                0xffffffffffffffff       0x98 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmu.o
+                0x9000c318                pl_pmu_init
+
+.text.rtc_xosc_write
+                0x9000c3b0       0x90
+ .text.rtc_xosc_write
+                0xffffffffffffffff       0x90 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_rtc.o
+
+.text.rtc_bbpu_power_on
+                0x9000c440       0x30
+ .text.rtc_bbpu_power_on
+                0xffffffffffffffff       0x30 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_rtc.o
+                0x9000c440                rtc_bbpu_power_on
+
+.text.rtc_mark_recovery_bits
+                0x9000c470       0x38
+ .text.rtc_mark_recovery_bits
+                0xffffffffffffffff       0x38 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_rtc.o
+                0x9000c470                rtc_mark_recovery_bits
+
+.text.rtc_mark_bypass_pwrkey
+                0x9000c4a8       0x30
+ .text.rtc_mark_bypass_pwrkey
+                0xffffffffffffffff       0x30 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_rtc.o
+                0x9000c4a8                rtc_mark_bypass_pwrkey
+
+.text.rtc_rdwr_uart_bits
+                0x9000c4d8       0x64
+ .text.rtc_rdwr_uart_bits
+                0xffffffffffffffff       0x64 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_rtc.o
+                0x9000c4d8                rtc_rdwr_uart_bits
+
+.text.pl_power_off
+                0x9000c53c       0x90
+ .text.pl_power_off
+                0xffffffffffffffff       0x90 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_rtc.o
+                0x9000c53c                pl_power_off
+
+.text.rtc_boot_check
+                0x9000c5cc      0x5c4
+ .text.rtc_boot_check
+                0xffffffffffffffff      0x5c4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_rtc.o
+                0x9000c5cc                rtc_boot_check
+
+.text.gpt4_busy_wait_ms
+                0x9000cb90       0x78
+ .text.gpt4_busy_wait_ms
+                0xffffffffffffffff       0x78 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_timer.o
+                0x9000cb90                gpt4_busy_wait_ms
+
+.text.pl_timer_init
+                0x9000cc08       0x54
+ .text.pl_timer_init
+                0xffffffffffffffff       0x54 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_timer.o
+                0x9000cc08                pl_timer_init
+
+.text.get_timer
+                0x9000cc5c       0xbc
+ .text.get_timer
+                0xffffffffffffffff       0xbc /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_timer.o
+                0x9000cc5c                get_timer
+
+.text.udelay    0x9000cd18       0xf8
+ .text.udelay   0xffffffffffffffff       0xf8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_timer.o
+                0x9000cd18                udelay
+
+.text.mdelay    0x9000ce10       0x28
+ .text.mdelay   0xffffffffffffffff       0x28 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_timer.o
+                0x9000ce10                mdelay
+
+.text.mt_read_fifo
+                0x9000ce38       0xe8
+ .text.mt_read_fifo
+                0xffffffffffffffff       0xe8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+
+.text.mt_udc_flush_fifo
+                0x9000cf20       0xb4
+ .text.mt_udc_flush_fifo
+                0xffffffffffffffff       0xb4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+
+.text.mt_ep_busy
+                0x9000cfd4       0x34
+ .text.mt_ep_busy
+                0xffffffffffffffff       0x34 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+                0x9000cfd4                mt_ep_busy
+
+.text.mt_setup_ep
+                0x9000d008      0x22c
+ .text.mt_setup_ep
+                0xffffffffffffffff      0x22c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+                0x9000d008                mt_setup_ep
+
+.text.mt_usb_connect
+                0x9000d234       0x18
+ .text.mt_usb_connect
+                0xffffffffffffffff       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+                0x9000d234                mt_usb_connect
+
+.text.mt_usb_disconnect
+                0x9000d24c       0x18
+ .text.mt_usb_disconnect
+                0xffffffffffffffff       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+                0x9000d24c                mt_usb_disconnect
+
+.text.mt_write_fifo
+                0x9000d264       0xd8
+ .text.mt_write_fifo
+                0xffffffffffffffff       0xd8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+
+.text.mt_ep_write
+                0x9000d33c       0x54
+ .text.mt_ep_write
+                0xffffffffffffffff       0x54 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+                0x9000d33c                mt_ep_write
+
+.text.mt_udc_ep0_write
+                0x9000d390       0x7c
+ .text.mt_udc_ep0_write
+                0xffffffffffffffff       0x7c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+
+.text.mt_udc_epx_handler
+                0x9000d40c       0xf4
+ .text.mt_udc_epx_handler
+                0xffffffffffffffff       0xf4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+
+.text.usb_service_offline
+                0x9000d500       0x34
+ .text.usb_service_offline
+                0xffffffffffffffff       0x34 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+                0x9000d500                usb_service_offline
+
+.text.udc_enable
+                0x9000d534       0x58
+ .text.udc_enable
+                0xffffffffffffffff       0x58 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+                0x9000d534                udc_enable
+
+.text.copy_desc
+                0x9000d58c       0x4c
+ .text.copy_desc
+                0xffffffffffffffff       0x4c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+
+.text.mt6573_udc_irq
+                0x9000d5d8      0x76c
+ .text.mt6573_udc_irq
+                0xffffffffffffffff      0x76c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+                0x9000d5d8                mt6573_udc_irq
+
+.text.mt6573_usb_phy_recover
+                0x9000dd44       0xec
+ .text.mt6573_usb_phy_recover
+                0xffffffffffffffff       0xec /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbphy.o
+                0x9000dd44                mt6573_usb_phy_recover
+
+.text.mt6573_usb_phy_savecurrent
+                0x9000de30      0x100
+ .text.mt6573_usb_phy_savecurrent
+                0xffffffffffffffff      0x100 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbphy.o
+                0x9000de30                mt6573_usb_phy_savecurrent
+
+.text.mt6573_usb_phy_poweron
+                0x9000df30      0x14c
+ .text.mt6573_usb_phy_poweron
+                0xffffffffffffffff      0x14c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbphy.o
+                0x9000df30                mt6573_usb_phy_poweron
+
+.text.usb_phy_init
+                0x9000e07c       0x40
+ .text.usb_phy_init
+                0xffffffffffffffff       0x40 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbphy.o
+                0x9000e07c                usb_phy_init
+
+.text.tool_is_present
+                0x9000e0bc       0x10
+ .text.tool_is_present
+                0xffffffffffffffff       0x10 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x9000e0bc                tool_is_present
+
+.text.tool_state_update
+                0x9000e0cc       0x10
+ .text.tool_state_update
+                0xffffffffffffffff       0x10 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x9000e0cc                tool_state_update
+
+.text.usbdl_configured
+                0x9000e0dc       0x10
+ .text.usbdl_configured
+                0xffffffffffffffff       0x10 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x9000e0dc                usbdl_configured
+
+.text.enable_highspeed
+                0x9000e0ec       0x94
+ .text.enable_highspeed
+                0xffffffffffffffff       0x94 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x9000e0ec                enable_highspeed
+
+.text.str2wide  0x9000e180       0x40
+ .text.str2wide
+                0xffffffffffffffff       0x40 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+
+.text.service_interrupts
+                0x9000e1c0       0x80
+ .text.service_interrupts
+                0xffffffffffffffff       0x80 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x9000e1c0                service_interrupts
+
+.text.mt6573_usbtty_query_data_size
+                0x9000e240       0x6c
+ .text.mt6573_usbtty_query_data_size
+                0xffffffffffffffff       0x6c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x9000e240                mt6573_usbtty_query_data_size
+
+.text.usbdl_poll
+                0x9000e2ac       0xf4
+ .text.usbdl_poll
+                0xffffffffffffffff       0xf4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x9000e2ac                usbdl_poll
+
+.text.mt6573_usbtty_putcn
+                0x9000e3a0       0x88
+ .text.mt6573_usbtty_putcn
+                0xffffffffffffffff       0x88 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x9000e3a0                mt6573_usbtty_putcn
+
+.text.mt6573_usbtty_getcn
+                0x9000e428       0x70
+ .text.mt6573_usbtty_getcn
+                0xffffffffffffffff       0x70 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x9000e428                mt6573_usbtty_getcn
+
+.text.usbdl_flush
+                0x9000e498       0x38
+ .text.usbdl_flush
+                0xffffffffffffffff       0x38 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x9000e498                usbdl_flush
+
+.text.mt6573_usbtty_puts
+                0x9000e4d0       0x6c
+ .text.mt6573_usbtty_puts
+                0xffffffffffffffff       0x6c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x9000e4d0                mt6573_usbtty_puts
+
+.text.config_usbtty
+                0x9000e53c       0x54
+ .text.config_usbtty
+                0xffffffffffffffff       0x54 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x9000e53c                config_usbtty
+
+.text.usb_alloc_urb
+                0x9000e590       0x68
+ .text.usb_alloc_urb
+                0xffffffffffffffff       0x68 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x9000e590                usb_alloc_urb
+
+.text.usbdl_init
+                0x9000e5f8      0x388
+ .text.usbdl_init
+                0xffffffffffffffff      0x388 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x9000e5f8                usbdl_init
+
+.text.pl_wdt_init
+                0x9000e980       0x54
+ .text.pl_wdt_init
+                0xffffffffffffffff       0x54 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+                0x9000e980                pl_wdt_init
+
+.text.WDT_boot_check
+                0x9000e9d4       0x44
+ .text.WDT_boot_check
+                0xffffffffffffffff       0x44 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+                0x9000e9d4                WDT_boot_check
+
+.text.mt6573_arch_reset
+                0x9000ea18       0x60
+ .text.mt6573_arch_reset
+                0xffffffffffffffff       0x60 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+                0x9000ea18                mt6573_arch_reset
+
+.text.pl_wdt_internal_init
+                0x9000ea78      0x1cc
+ .text.pl_wdt_internal_init
+                0xffffffffffffffff      0x1cc /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+                0x9000ea78                pl_wdt_internal_init
+
+.text.PAGE_NUM  0x9000ec44       0x18
+ .text.PAGE_NUM
+                0xffffffffffffffff       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9000ec44                PAGE_NUM
+
+.text.mt6573_nand_reset_descriptor
+                0x9000ec5c       0x4c
+ .text.mt6573_nand_reset_descriptor
+                0xffffffffffffffff       0x4c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9000ec5c                mt6573_nand_reset_descriptor
+
+.text.get_storge_info
+                0x9000eca8       0x2c
+ .text.get_storge_info
+                0xffffffffffffffff       0x2c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9000eca8                get_storge_info
+
+.text.nand_wait_ready
+                0x9000ecd4       0x18
+ .text.nand_wait_ready
+                0xffffffffffffffff       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9000ecd4                nand_wait_ready
+
+.text.mt6573_nand_check_bch_error
+                0x9000ecec       0xbc
+ .text.mt6573_nand_check_bch_error
+                0xffffffffffffffff       0xbc /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+
+.text.mt6573_nand_reset
+                0x9000eda8      0x100
+ .text.mt6573_nand_reset
+                0xffffffffffffffff      0x100 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9000eda8                mt6573_nand_reset
+
+.text.mt6573_nand_read_status
+                0x9000eea8      0x130
+ .text.mt6573_nand_read_status
+                0xffffffffffffffff      0x130 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+
+.text.mt6573_nand_ready_for_write
+                0x9000efd8      0x150
+ .text.mt6573_nand_ready_for_write
+                0xffffffffffffffff      0x150 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+
+.text.mark_block_bad_hw
+                0x9000f128      0x20c
+ .text.mark_block_bad_hw
+                0xffffffffffffffff      0x20c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9000f128                mark_block_bad_hw
+
+.text.mt6573_nand_write_page_hw
+                0x9000f334      0x21c
+ .text.mt6573_nand_write_page_hw
+                0xffffffffffffffff      0x21c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9000f334                mt6573_nand_write_page_hw
+
+.text.mt6573_nand_ready_for_read
+                0x9000f550      0x180
+ .text.mt6573_nand_ready_for_read
+                0xffffffffffffffff      0x180 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+
+.text.mt6573_nand_read_page_hw
+                0x9000f6d0      0x1c0
+ .text.mt6573_nand_read_page_hw
+                0xffffffffffffffff      0x1c0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9000f6d0                mt6573_nand_read_page_hw
+
+.text.nand_block_bad_hw
+                0x9000f890      0x218
+ .text.nand_block_bad_hw
+                0xffffffffffffffff      0x218 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9000f890                nand_block_bad_hw
+
+.text.mt6573_nand_erase_hw
+                0x9000faa8      0x12c
+ .text.mt6573_nand_erase_hw
+                0xffffffffffffffff      0x12c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9000faa8                mt6573_nand_erase_hw
+
+.text.nand_chksum_body
+                0x9000fbd4       0xb0
+ .text.nand_chksum_body
+                0xffffffffffffffff       0xb0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9000fbd4                nand_chksum_body
+
+.text.get_device_info
+                0x9000fc84       0xf0
+ .text.get_device_info
+                0xffffffffffffffff       0xf0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9000fc84                get_device_info
+
+.text.mark_block_bad
+                0x9000fd74       0x28
+ .text.mark_block_bad
+                0xffffffffffffffff       0x28 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9000fd74                mark_block_bad
+
+.text.mt6573_nand_read_page_hwecc
+                0x9000fd9c       0xb4
+ .text.mt6573_nand_read_page_hwecc
+                0xffffffffffffffff       0xb4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9000fd9c                mt6573_nand_read_page_hwecc
+
+.text.mt6573_nand_erase
+                0x9000fe50       0x60
+ .text.mt6573_nand_erase
+                0xffffffffffffffff       0x60 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9000fe50                mt6573_nand_erase
+
+.text.nand_erase_data
+                0x9000feb0      0x138
+ .text.nand_erase_data
+                0xffffffffffffffff      0x138 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9000feb0                nand_erase_data
+
+.text.nand_block_bad
+                0x9000ffe8       0x60
+ .text.nand_block_bad
+                0xffffffffffffffff       0x60 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9000ffe8                nand_block_bad
+
+.text.nand_find_safe_block
+                0x90010048       0x88
+ .text.nand_find_safe_block
+                0xffffffffffffffff       0x88 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x90010048                nand_find_safe_block
+
+.text.nand_read_data
+                0x900100d0      0x124
+ .text.nand_read_data
+                0xffffffffffffffff      0x124 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x900100d0                nand_read_data
+
+.text.nand_chksum_per_file
+                0x900101f4       0x10
+ .text.nand_chksum_per_file
+                0xffffffffffffffff       0x10 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x900101f4                nand_chksum_per_file
+
+.text.mt6573_nand_write_page_hwecc
+                0x90010204      0x124
+ .text.mt6573_nand_write_page_hwecc
+                0xffffffffffffffff      0x124 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x90010204                mt6573_nand_write_page_hwecc
+
+.text.nand_write_data
+                0x90010328       0x60
+ .text.nand_write_data
+                0xffffffffffffffff       0x60 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x90010328                nand_write_data
+
+.text.mt6573_nand_command_bp.clone.0
+                0x90010388      0x11c
+ .text.mt6573_nand_command_bp.clone.0
+                0xffffffffffffffff      0x11c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+
+.text.mt6573_nand_init
+                0x900104a4      0x524
+ .text.mt6573_nand_init
+                0xffffffffffffffff      0x524 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x900104a4                mt6573_nand_init
+
+.text.nand_device_init
+                0x900109c8       0x88
+ .text.nand_device_init
+                0xffffffffffffffff       0x88 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x900109c8                nand_device_init
+
+.text.getflashid
+                0x90010a50       0xb0
+ .text.getflashid
+                0xffffffffffffffff       0xb0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x90010a50                getflashid
+
+.text.get_part_tab_from_complier
+                0x90010b00       0xa4
+ .text.get_part_tab_from_complier
+                0xffffffffffffffff       0xa4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/partition_mt.o
+                0x90010b00                get_part_tab_from_complier
+
+.text.find_mirror_pt_from_bottom
+                0x90010ba4      0x14c
+ .text.find_mirror_pt_from_bottom
+                0xffffffffffffffff      0x14c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/partition_mt.o
+                0x90010ba4                find_mirror_pt_from_bottom
+
+.text.load_exist_part_tab
+                0x90010cf0      0x1f0
+ .text.load_exist_part_tab
+                0xffffffffffffffff      0x1f0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/partition_mt.o
+                0x90010cf0                load_exist_part_tab
+
+.text.update_part_tab
+                0x90010ee0      0x2ac
+ .text.update_part_tab
+                0xffffffffffffffff      0x2ac /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/partition_mt.o
+                0x90010ee0                update_part_tab
+
+.text.find_empty_page_from_top
+                0x9001118c      0x154
+ .text.find_empty_page_from_top
+                0xffffffffffffffff      0x154 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/partition_mt.o
+                0x9001118c                find_empty_page_from_top
+
+.text.new_part_tab
+                0x900112e0      0x3d0
+ .text.new_part_tab
+                0xffffffffffffffff      0x3d0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/partition_mt.o
+                0x900112e0                new_part_tab
+
+.text.MTCMOS_Dis
+                0x900116b0       0xf8
+ .text.MTCMOS_Dis
+                0xffffffffffffffff       0xf8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/pll.o
+                0x900116b0                MTCMOS_Dis
+
+.text.pl_pll_init
+                0x900117a8      0x25c
+ .text.pl_pll_init
+                0xffffffffffffffff      0x25c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/pll.o
+                0x900117a8                pl_pll_init
+
+.text.sec_boot_check
+                0x90011a04       0x58
+ .text.sec_boot_check
+                0xffffffffffffffff       0x58 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_boot.o
+                0x90011a04                sec_boot_check
+
+.text.sec_ctrl_init
+                0x90011a5c        0x4
+ .text.sec_ctrl_init
+                0xffffffffffffffff        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_ctrl.o
+                0x90011a5c                sec_ctrl_init
+
+.text.sec_cfg_load
+                0x90011a60       0x88
+ .text.sec_cfg_load
+                0xffffffffffffffff       0x88 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec.o
+                0x90011a60                sec_cfg_load
+
+.text.sec_lib_init
+                0x90011ae8      0x13c
+ .text.sec_lib_init
+                0xffffffffffffffff      0x13c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec.o
+                0x90011ae8                sec_lib_init
+
+.text.sec_rom_info_init
+                0x90011c24       0x34
+ .text.sec_rom_info_init
+                0xffffffffffffffff       0x34 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_rom_info.o
+                0x90011c24                sec_rom_info_init
+
+.text.sec_ro_init
+                0x90011c58        0x4
+ .text.sec_ro_init
+                0xffffffffffffffff        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_ro.o
+                0x90011c58                sec_ro_init
+
+.text.sec_util_get_working_buf
+                0x90011c5c        0x8
+ .text.sec_util_get_working_buf
+                0xffffffffffffffff        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec_util.o
+                0x90011c5c                sec_util_get_working_buf
+
+.text.strlen    0x90011c64       0x20
+ .text.strlen   0xffffffffffffffff       0x20 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/string.o
+                0x90011c64                strlen
+
+.text.strcmp    0x90011c84       0x30
+ .text.strcmp   0xffffffffffffffff       0x30 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/string.o
+                0x90011c84                strcmp
+
+.text.strncmp   0x90011cb4       0x48
+ .text.strncmp  0xffffffffffffffff       0x48 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/string.o
+                0x90011cb4                strncmp
+
+.text.memset    0x90011cfc       0x1c
+ .text.memset   0xffffffffffffffff       0x1c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/string.o
+                0x90011cfc                memset
+
+.text.memcpy    0x90011d18       0x20
+ .text.memcpy   0xffffffffffffffff       0x20 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/string.o
+                0x90011d18                memcpy
+
+.text.memcmp    0x90011d38       0x38
+ .text.memcmp   0xffffffffffffffff       0x38 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/string.o
+                0x90011d38                memcmp
+
+.text.check_meta_respon_value
+                0x90011d70       0x2c
+ .text.check_meta_respon_value
+                0xffffffffffffffff       0x2c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/tool_detection_via_uart.o
+
+.text.meta_send_ready
+                0x90011d9c       0x40
+ .text.meta_send_ready
+                0xffffffffffffffff       0x40 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/tool_detection_via_uart.o
+                0x90011d9c                meta_send_ready
+
+.text.meta_check_pc_trigger
+                0x90011ddc      0x20c
+ .text.meta_check_pc_trigger
+                0xffffffffffffffff      0x20c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/tool_detection_via_uart.o
+                0x90011ddc                meta_check_pc_trigger
+
+.text.mt6573_usb_disconnect
+                0x90011fe8        0x4
+ .text.mt6573_usb_disconnect
+                0xffffffffffffffff        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/tool_detection_via_usb.o
+                0x90011fe8                mt6573_usb_disconnect
+
+.text.usb_connect
+                0x90011fec       0x88
+ .text.usb_connect
+                0xffffffffffffffff       0x88 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/tool_detection_via_usb.o
+                0x90011fec                usb_connect
+
+.text.listen_tool_via_usb
+                0x90012074       0x9c
+ .text.listen_tool_via_usb
+                0xffffffffffffffff       0x9c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/tool_detection_via_usb.o
+                0x90012074                listen_tool_via_usb
+
+.text.handshake_protocol_via_usb
+                0x90012110      0x198
+ .text.handshake_protocol_via_usb
+                0xffffffffffffffff      0x198 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/tool_detection_via_usb.o
+                0x90012110                handshake_protocol_via_usb
+
+.text.tool_detection_via_usb
+                0x900122a8       0xbc
+ .text.tool_detection_via_usb
+                0xffffffffffffffff       0xbc /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/tool_detection_via_usb.o
+                0x900122a8                tool_detection_via_usb
+
+.text.serial_setbrg
+                0x90012364       0xac
+ .text.serial_setbrg
+                0xffffffffffffffff       0xac /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+                0x90012364                serial_setbrg
+
+.text.serial_nonblock_getc
+                0x90012410       0x14
+ .text.serial_nonblock_getc
+                0xffffffffffffffff       0x14 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+                0x90012410                serial_nonblock_getc
+
+.text.outNumDecimal
+                0x90012424       0x70
+ .text.outNumDecimal
+                0xffffffffffffffff       0x70 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+
+.text.outNumHex
+                0x90012494       0xa4
+ .text.outNumHex
+                0xffffffffffffffff       0xa4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+
+.text.dbg_print
+                0x90012538      0x294
+ .text.dbg_print
+                0xffffffffffffffff      0x294 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+                0x90012538                dbg_print
+
+.text.mt6573_serial_set_current_uart
+                0x900127cc       0x54
+ .text.mt6573_serial_set_current_uart
+                0xffffffffffffffff       0x54 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+                0x900127cc                mt6573_serial_set_current_uart
+
+.text.pl_uart_init
+                0x90012820       0xac
+ .text.pl_uart_init
+                0xffffffffffffffff       0xac /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+                0x90012820                pl_uart_init
+
+.text.seclib_sec_boot_enabled
+                0x900128cc       0xc4
+ .text.seclib_sec_boot_enabled
+                0xffffffffffffffff       0xc4 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_boot.o)
+                0x900128cc                seclib_sec_boot_enabled
+
+.text.seclib_cust_init
+                0x90012990       0x44
+ .text.seclib_cust_init
+                0xffffffffffffffff       0x44 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib.o)
+                0x90012990                seclib_cust_init
+
+.text.seclib_check
+                0x900129d4       0x14
+ .text.seclib_check
+                0xffffffffffffffff       0x14 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib.o)
+                0x900129d4                seclib_check
+
+.text.seclib_crypto_init
+                0x900129e8       0x1c
+ .text.seclib_crypto_init
+                0xffffffffffffffff       0x1c /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib.o)
+                0x900129e8                seclib_crypto_init
+
+.text.seclib_init
+                0x90012a04      0x228
+ .text.seclib_init
+                0xffffffffffffffff      0x228 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib.o)
+                0x90012a04                seclib_init
+
+.text.sp_check_platform
+                0x90012c2c        0x4
+ .text.sp_check_platform
+                0xffffffffffffffff        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej_export.o)
+                0x90012c2c                sp_check_platform
+
+.text.sp_sej_init
+                0x90012c30       0x80
+ .text.sp_sej_init
+                0xffffffffffffffff       0x80 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej_export.o)
+                0x90012c30                sp_sej_init
+
+.text.sp_sej_dec
+                0x90012cb0       0x6c
+ .text.sp_sej_dec
+                0xffffffffffffffff       0x6c /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej_export.o)
+                0x90012cb0                sp_sej_dec
+
+.text.sej_set_key
+                0x90012d1c      0x110
+ .text.sej_set_key
+                0xffffffffffffffff      0x110 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej.o)
+                0x90012d1c                sej_set_key
+
+.text.sej_set_mode
+                0x90012e2c       0x6c
+ .text.sej_set_mode
+                0xffffffffffffffff       0x6c /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej.o)
+                0x90012e2c                sej_set_mode
+
+.text.sej_do_aes
+                0x90012e98      0x108
+ .text.sej_do_aes
+                0xffffffffffffffff      0x108 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej.o)
+                0x90012e98                sej_do_aes
+
+.text.sej_set_iv
+                0x90012fa0       0x20
+ .text.sej_set_iv
+                0xffffffffffffffff       0x20 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej.o)
+                0x90012fa0                sej_set_iv
+
+.text.sej_init  0x90012fc0      0x130
+ .text.sej_init
+                0xffffffffffffffff      0x130 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej.o)
+                0x90012fc0                sej_init
+
+.text.seclib_sbc_enabled
+                0x900130f0       0x18
+ .text.seclib_sbc_enabled
+                0xffffffffffffffff       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(efuse.o)
+                0x900130f0                seclib_sbc_enabled
+
+.text.seclib_3g_disable
+                0x90013108       0x14
+ .text.seclib_3g_disable
+                0xffffffffffffffff       0x14 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(efuse.o)
+                0x90013108                seclib_3g_disable
+
+.text.seclib_sec_usbdl_enabled
+                0x9001311c       0x88
+ .text.seclib_sec_usbdl_enabled
+                0xffffffffffffffff       0x88 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib_dl.o)
+                0x9001311c                seclib_sec_usbdl_enabled
+
+.rodata.str1.1  0x900131a4     0x1e6a
+ ** merge strings
+                0x900131a4     0x1e6a
+
+.rodata.CSWTCH.1
+                0x90015010        0x8
+ .rodata.CSWTCH.1
+                0x90015010        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download_utility.o
+
+.rodata.gen_FlashTable
+                0x90015018       0xc8
+ .rodata.gen_FlashTable
+                0x90015018       0xc8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+
+.data.MAIN_SIGNATURE
+                0x900150e0        0x4
+ .data.MAIN_SIGNATURE
+                0x900150e0        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+
+.data.OOB_SIGNATURE
+                0x900150e4        0x4
+ .data.OOB_SIGNATURE
+                0x900150e4        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+
+.data.g_boot_reason
+                0x900150e8        0x1
+ .data.g_boot_reason
+                0x900150e8        0x1 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x900150e8                g_boot_reason
+
+.data.emi_settings
+                0x900150ec      0x3c0
+ .data.emi_settings
+                0x900150ec      0x3c0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/custom_emi.o
+                0x900150ec                emi_settings
+
+.data.REG_BAK.1154
+                0x900154ac       0x58
+ .data.REG_BAK.1154
+                0x900154ac       0x58 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/emi_datatrain.o
+
+.data.gpio_dat  0x90015504        0x4
+ .data.gpio_dat
+                0x90015504        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_gpio.o
+
+.data.g_line_coding
+                0x90015508        0x8
+ .data.g_line_coding
+                0x90015508        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+
+.data.fifo_addr
+                0x90015510        0x4
+ .data.fifo_addr
+                0x90015510        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+                0x90015510                fifo_addr
+
+.data.fs_data_ep_descriptor_ptrs
+                0x90015514        0x8
+ .data.fs_data_ep_descriptor_ptrs
+                0x90015514        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+
+.data.fs_comm_ep_descriptor_ptrs
+                0x9001551c        0x4
+ .data.fs_comm_ep_descriptor_ptrs
+                0x9001551c        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+
+.data.union_function_descriptor
+                0x90015520        0x8
+ .data.union_function_descriptor
+                0x90015520        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x90015520                union_function_descriptor
+
+.data.device_descriptor
+                0x90015528       0x14
+ .data.device_descriptor
+                0x90015528       0x14 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+
+.data.call_management_descriptor
+                0x9001553c        0x8
+ .data.call_management_descriptor
+                0x9001553c        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x9001553c                call_management_descriptor
+
+.data.hs_comm_ep_descriptor_ptrs
+                0x90015544        0x4
+ .data.hs_comm_ep_descriptor_ptrs
+                0x90015544        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+
+.data.hs_data_ep_descriptor_ptrs
+                0x90015548        0x8
+ .data.hs_data_ep_descriptor_ptrs
+                0x90015548        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+
+.data.usbtty_string_table
+                0x90015550       0x18
+ .data.usbtty_string_table
+                0x90015550       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+
+.data.device_qualifier_descriptor
+                0x90015568        0xc
+ .data.device_qualifier_descriptor
+                0x90015568        0xc /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+
+.data.header_function_descriptor
+                0x90015574        0x8
+ .data.header_function_descriptor
+                0x90015574        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+
+.data.language  0x9001557c        0x4
+ .data.language
+                0x9001557c        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+
+.data.hs_ep_descriptors
+                0x90015580       0x18
+ .data.hs_ep_descriptors
+                0x90015580       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+
+.data.abstract_control_descriptor
+                0x90015598        0x4
+ .data.abstract_control_descriptor
+                0x90015598        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+
+.data.fs_ep_descriptors
+                0x9001559c       0x18
+ .data.fs_ep_descriptors
+                0x9001559c       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+
+.data.interface_descriptors
+                0x900155b4       0x14
+ .data.interface_descriptors
+                0x900155b4       0x14 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+
+.data.config_descriptors
+                0x900155c8        0xc
+ .data.config_descriptors
+                0x900155c8        0xc /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+
+.data.nand_oob_16
+                0x900155d4      0x148
+ .data.nand_oob_16
+                0x900155d4      0x148 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+
+.data.nand_oob_128
+                0x9001571c      0x148
+ .data.nand_oob_128
+                0x9001571c      0x148 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9001571c                nand_oob_128
+
+.data.nand_oob_64
+                0x90015864      0x148
+ .data.nand_oob_64
+                0x90015864      0x148 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x90015864                nand_oob_64
+
+.data.g_enable_debug_msg
+                0x900159ac        0x4
+ .data.g_enable_debug_msg
+                0x900159ac        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+                0x900159ac                g_enable_debug_msg
+
+.data.g_uart    0x900159b0        0x4
+ .data.g_uart   0x900159b0        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+                0x900159b0                g_uart
+
+.bss            0x900159c0     0x4060
+ .bss.system_block_count
+                0x900159c0        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+ .bss.nand_chip_bmt
+                0x900159c4        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+ .bss.oob_buf   0x900159c8        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+ .bss.page_per_block
+                0x900159cc        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+ .bss.total_block_count
+                0x900159d0        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+ .bss.bmt_block_index
+                0x900159d4        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+ .bss.dat_buf   0x900159d8        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+ .bss.bmt_block_count
+                0x900159dc        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+ .bss.reserve_block
+                0x900159e0        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+ .bss.brom_reserve_mapping
+                0x900159e4       0x14 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+ .bss.pool_erased
+                0x900159f8        0x1 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+ .bss.bmt       0x900159fc      0x204 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/bmt.o
+ .bss.g_usb_input_buf
+                0x90015c00      0x400 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/circbuf.o
+ .bss.g_usb_output_buf
+                0x90016000      0x400 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/circbuf.o
+ .bss.g_usbdl_flow
+                0x90016400        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x90016400                g_usbdl_flow
+ .bss.g_uboot_size
+                0x90016404        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/common_init_inter.o
+                0x90016404                g_uboot_size
+ .bss.g_boot_mode
+                0x90016408        0x1 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/main.o
+                0x90016408                g_boot_mode
+ .bss.g_boot_argument
+                0x9001640c        0xc /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/main.o
+                0x9001640c                g_boot_argument
+ .bss.use_device
+                0x90016418       0x14 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/main.o
+                0x90016418                use_device
+ .bss.g_img_dl_pt_info
+                0x9001642c      0x5f8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x9001642c                g_img_dl_pt_info
+ .bss.g_sec_img_patch_enable
+                0x90016a24        0x1 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x90016a24                g_sec_img_patch_enable
+ .bss.g_cust_key_init
+                0x90016a25        0x1 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x90016a25                g_cust_key_init
+ .bss.dm_ctx    0x90016a28       0x4c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x90016a28                dm_ctx
+ .bss.dm_rx_buf
+                0x90016a74     0x1194 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x90016a74                dm_rx_buf
+ .bss.g_end_user_flash_tool
+                0x90017c08        0x1 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x90017c08                g_end_user_flash_tool
+ .bss.g_sec_img_patch_valid
+                0x90017c09        0x1 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x90017c09                g_sec_img_patch_valid
+ .bss.g_dl_safe_start_addr
+                0x90017c0c        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_download.o
+                0x90017c0c                g_dl_safe_start_addr
+ .bss.PAGE_SIZE
+                0x90017c10        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_partition.o
+                0x90017c10                PAGE_SIZE
+ .bss.BLOCK_SIZE
+                0x90017c14        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_partition.o
+                0x90017c14                BLOCK_SIZE
+ .bss.mt6573_parts
+                0x90017c18      0x190 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_partition.o
+                0x90017c18                mt6573_parts
+ .bss.tempart   0x90017da8       0x14 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_partition.o
+                0x90017da8                tempart
+ .bss.new_part  0x90017dbc      0x5f0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_partition.o
+                0x90017dbc                new_part
+ .bss.lastest_part
+                0x900183ac      0x5f0 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_partition.o
+                0x900183ac                lastest_part
+ .bss.pmic6326_eco_version
+                0x9001899c        0x1 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_pmic6326.o
+                0x9001899c                pmic6326_eco_version
+ .bss.timestamp
+                0x900189a0        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_timer.o
+ .bss.lastinc   0x900189a4        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_timer.o
+ .bss.ep0_urb   0x900189a8        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+ .bss.set_address
+                0x900189ac        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+                0x900189ac                set_address
+ .bss.udc_device
+                0x900189b0        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+ .bss.ep0_state
+                0x900189b4        0x1 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbd.o
+                0x900189b4                ep0_state
+ .bss.mt6573_rx_urb
+                0x900189b8      0x41c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x900189b8                mt6573_rx_urb
+ .bss.mt6573_tx_urb
+                0x90018dd4      0x41c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x90018dd4                mt6573_tx_urb
+ .bss.mt6573_ep0_urb
+                0x900191f0      0x41c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x900191f0                mt6573_ep0_urb
+ .bss.mt_usb_comm_alternate_interface
+                0x9001960c       0x1c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .bss.mt_usb_ep
+                0x90019628       0x70 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .bss.usb_configured
+                0x90019698        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x90019698                usb_configured
+ .bss.mt_usb_interface
+                0x9001969c        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .bss.usb_output_buffer
+                0x900196a4       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .bss.commInterface
+                0x900196bc       0x40 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .bss.dataInterface
+                0x900196fc       0x30 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .bss.mt_usb_comm_interface
+                0x9001972c        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .bss.usb_input_buffer
+                0x90019734       0x18 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .bss.mt_usb_device
+                0x9001974c       0x28 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .bss.mt_usb_data_alternate_interface
+                0x90019774       0x1c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .bss.configuration
+                0x90019790       0x34 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .bss.product   0x900197c4       0x24 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .bss.manufacturer
+                0x900197e8       0x14 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .bss.tool_exists
+                0x900197fc        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x900197fc                tool_exists
+ .bss.mt_usb_config
+                0x90019800        0xc /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .bss.mt_usb_data_interface
+                0x9001980c        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+ .bss.usb_string_table
+                0x90019814        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_usbtty.o
+                0x90019814                usb_string_table
+ .bss.wstatus   0x90019818        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .bss.wmode     0x9001981c        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .bss.timeout   0x90019820        0x2 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/mt6573_wdt.o
+ .bss.g_bInitDone
+                0x90019822        0x1 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+ .bss.nand_maf_id
+                0x90019824        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x90019824                nand_maf_id
+ .bss.g_nand_chip
+                0x90019828       0x3c /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x90019828                g_nand_chip
+ .bss.g_kCMD    0x90019864       0x50 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+ .bss.ext_id3   0x900198b4        0x1 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x900198b4                ext_id3
+ .bss.nand_dev_id
+                0x900198b8        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x900198b8                nand_dev_id
+ .bss.g_nand_spare
+                0x900198bc       0x80 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x900198bc                g_nand_spare
+ .bss.g_dev_vfunc
+                0x9001993c       0x20 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9001993c                g_dev_vfunc
+ .bss.nand_oob  0x9001995c        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x9001995c                nand_oob
+ .bss.gdevice_info
+                0x90019960        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x90019960                gdevice_info
+ .bss.ext_id2   0x90019968        0x1 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x90019968                ext_id2
+ .bss.nfi_buf   0x9001996c        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+ .bss.devinfo   0x90019970       0x28 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+ .bss.ext_id1   0x90019998        0x1 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+                0x90019998                ext_id1
+ .bss.g_u4ChipVer
+                0x9001999c        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/nand.o
+ .bss.total_size
+                0x900199a0        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/partition_mt.o
+ .bss.sig_buf   0x900199a4        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/partition_mt.o
+ .bss.pi        0x900199a8        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/partition_mt.o
+ .bss.page_buf  0x900199ac        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/partition_mt.o
+ .bss.page_readbuf
+                0x900199b0        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/partition_mt.o
+ .bss.sec_cfg_info
+                0x900199b4        0x8 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/sec.o
+                0x900199b4                sec_cfg_info
+ .bss.g_meta_ready_start_time
+                0x900199bc        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/tool_detection_via_uart.o
+ .bss.g_brg     0x900199c0        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/source/preloader/out/uart.o
+                0x900199c0                g_brg
+ .bss.g_sec_cfg
+                0x900199c4        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib.o)
+                0x900199c4                g_sec_cfg
+ .bss.g_cust_cfg
+                0x900199c8        0x4 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(seclib.o)
+                0x900199c8                g_cust_cfg
+ .bss.sej_ctx   0x900199cc       0x54 /home/luckas/IQ255/proba/OT_903D/mediatek/platform/mt6573/preloader/src/SecLib.a(sej.o)

@@ -1,0 +1,37 @@
+menuconfig MEDIATEK_SOLUTION
+        bool "MediaTek Properitary Configuration"
+        help
+            Check this to enable MediaTek properity configuration.
+
+if MEDIATEK_SOLUTION
+
+choice 
+    bool "System Type"
+
+config ARCH_MT6516
+        bool "MediaTek MT6516"
+        select GENERIC_TIME
+        select GENERIC_CLOCKEVENTS
+        select CPU_ARM926T
+        help
+          This enable support for MediaTek MT6516.
+
+config ARCH_MT6573
+        bool "MediaTek MT6573"
+        select GENERIC_TIME
+        select GENERIC_CLOCKEVENTS
+        select ARCH_HAS_CPUFREQ
+        select CPU_V6
+        help
+          This enable support for MediaTek MT6573.
+
+endchoice
+
+
+if ARCH_MT6573
+source "../mediatek/platform/mt6573/kernel/Kconfig/Kernel"
+source "../mediatek/platform/mt6573/kernel/Kconfig/Board"
+source "../mediatek/platform/mt6573/kernel/Kconfig/Drivers"
+endif
+
+endif

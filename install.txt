@@ -1,0 +1,27 @@
+Build:
+./mk -t jrd73_gb new kernel
+./mk -t -o=TARGET_BUILD_VARIANT=user jrd73_gb new kernel
+
+
+1. ./kernel/drivers/char/consolemap_deftbl.c (edit minus 1328198917 to 256) - bugs - negative!!!)
+Need disable clean this driver in ./kernel/drivers/char/Makefile
+
+  LD      .tmp_vmlinux1
+../mediatek/custom/out/jrd73_gb/kernel/built-in.o: In function `get_power_setting_status':
+/home/luckas/IQ255/proba/OT_903D/kernel/../mediatek/custom/out/jrd73_gb/kernel/lcm/ili9340.c:316: undefined reference to `jrd_lcd_waitfornotbusy'
+/home/luckas/IQ255/proba/OT_903D/kernel/../mediatek/custom/out/jrd73_gb/kernel/lcm/ili9340.c:329: undefined reference to `jrd_lcm_update'
+../mediatek/custom/out/jrd73_gb/kernel/built-in.o: In function `get_power_setting_status':
+/home/luckas/IQ255/proba/OT_903D/kernel/../mediatek/custom/out/jrd73_gb/kernel/lcm/ili9341.c:351: undefined reference to `jrd_lcd_waitfornotbusy'
+/home/luckas/IQ255/proba/OT_903D/kernel/../mediatek/custom/out/jrd73_gb/kernel/lcm/ili9341.c:364: undefined reference to `jrd_lcm_update'
+../mediatek/custom/out/jrd73_gb/kernel/built-in.o: In function `get_power_setting_status':
+/home/luckas/IQ255/proba/OT_903D/kernel/../mediatek/custom/out/jrd73_gb/kernel/lcm/r61526.c:424: undefined reference to `jrd_lcd_waitfornotbusy'
+/home/luckas/IQ255/proba/OT_903D/kernel/../mediatek/custom/out/jrd73_gb/kernel/lcm/r61526.c:436: undefined reference to `jrd_lcm_update'
+make[2]: *** [.tmp_vmlinux1] Помилка 1
+Checking memory usage DONE!
+2. Change the jrd_lcm_update to lcm_update, and jrd_lcd_waitfornotbusy to LCD_WaitForNotBusy in display drivers
+3. Add #define TPD_HAVE_POWER_ON_OFF in /mediatek/custom/jrd73_gb/kernel/touchpanel/mcs6024/tpd_custom_mcs6024.h (need if have external GPIO PIN to power - from C-source)
+
+# Addons
+4. For preloader copy from fanjungwei /mediatek/platform/mt6573/preloader/*
+5. For bootimage copy from fanjungwei /mediatek/source/external/seclib/* and maybe need more! fixme!!!
+

@@ -1,0 +1,13 @@
+kernel/../mediatek/platform/mt6573/kernel/drivers/i2c/i2c.ko
+kernel/../mediatek/platform/mt6573/kernel/drivers/jpeg/jpeg_driver.ko
+kernel/../mediatek/platform/mt6573/kernel/drivers/keypad/kpd.ko
+kernel/../mediatek/platform/mt6573/kernel/drivers/mmc-host/sd.ko
+kernel/../mediatek/platform/mt6573/kernel/drivers/nand/nand.ko
+kernel/../mediatek/platform/mt6573/kernel/drivers/nand/bmt.ko
+kernel/../mediatek/platform/mt6573/kernel/drivers/nand/partition_mt.ko
+kernel/../mediatek/platform/mt6573/kernel/drivers/power/upmu_common.ko
+kernel/../mediatek/platform/mt6573/kernel/drivers/power/pmu6573.ko
+kernel/../mediatek/platform/mt6573/kernel/drivers/power/mt6573_fuel_gauge.ko
+kernel/../mediatek/platform/mt6573/kernel/drivers/power/mt6573_battery.ko
+kernel/../mediatek/platform/mt6573/kernel/drivers/touchpanel/tpd_adc.ko
+kernel/../mediatek/platform/mt6573/kernel/drivers/uart/uart.ko

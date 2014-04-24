@@ -1,0 +1,4 @@
+kernel/../mediatek/source/kernel/drivers/aee/ipanic/ipanic.ko
+kernel/../mediatek/source/kernel/drivers/gps/gps.ko
+kernel/../mediatek/source/kernel/drivers/leds/leds.ko
+kernel/../mediatek/source/kernel/drivers/wdk/wd_kicker.ko

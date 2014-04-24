@@ -1,0 +1,3 @@
+MTK_CPU = arm1176
+
+TARGET_ARCH_VARIANT = armv6

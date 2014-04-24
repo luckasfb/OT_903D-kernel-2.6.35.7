@@ -1,0 +1,4 @@
+kernel/../mediatek/platform/mt6573/kernel/drivers/power/upmu_common.ko
+kernel/../mediatek/platform/mt6573/kernel/drivers/power/pmu6573.ko
+kernel/../mediatek/platform/mt6573/kernel/drivers/power/mt6573_fuel_gauge.ko
+kernel/../mediatek/platform/mt6573/kernel/drivers/power/mt6573_battery.ko

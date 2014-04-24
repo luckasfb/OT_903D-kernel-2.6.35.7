@@ -1,0 +1,10 @@
+config MT592X_SDIO
+	bool "MediaTek MT592x SDIO support"
+	depends on MT592X && MMC
+
+config MT592X_SDIO_CLNT
+	tristate "MediaTek MT592X SDIO CLNT support"
+	depends on MMC
+
+source "drivers/net/wireless/mt592x/wlan/Kconfig"
+ 

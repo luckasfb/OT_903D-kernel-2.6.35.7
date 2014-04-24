@@ -1,0 +1,23 @@
+**** Cleaning ****
+../mediatek/build/kernel/Makefile:42: попередження: перекриття команд для цілі "../mediatek/custom/out/jrd73_gb/kernel/alsps/cust_alsps.c"
+../mediatek/build/kernel/Makefile:42: попередження: ігнорування старих команд для цілі "../mediatek/custom/out/jrd73_gb/kernel/alsps/cust_alsps.c"
+../mediatek/config/jrd73_gb \
+../mediatek/config/mt6573 \
+../mediatek/config/common \
+  CLEAN   arch/arm/boot/compressed
+  CLEAN   arch/arm/boot
+  CLEAN   /home/luckas/IQ255/proba/OT_903D/kernel
+  CLEAN   arch/arm/kernel
+  CLEAN   drivers/video/logo
+  CLEAN   kernel
+  CLEAN   lib
+  CLEAN   usr
+clean mediatek kernel source tree
+  CLEAN   .tmp_versions
+  CLEAN   vmlinux System.map .tmp_kallsyms1.o .tmp_kallsyms1.S .tmp_kallsyms2.o .tmp_kallsyms2.S .tmp_vmlinux1 .tmp_vmlinux2 .tmp_System.map
+  CLEAN   scripts/basic
+  CLEAN   scripts/kconfig
+  CLEAN   scripts/mod
+  CLEAN   scripts
+  CLEAN   include/config include/generated
+  CLEAN   .config .config.old .version include/linux/version.h Module.symvers

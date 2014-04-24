@@ -1,0 +1,21 @@
+
+
+
+#ifndef __CUSTOM_MEMORYDEVICE__
+#define __CUSTOM_MEMORYDEVICE__
+
+
+
+/* MT6573 only support LPDDR */
+#define MEMORY_DEVICE_TYPE    LPSDRAM
+
+#define BOARD_ID                 JRD73GB
+
+#define CS0_PART_NUMBER[0]       H9DA4GH2GJAMCR_4EM
+
+//#define CS0_PART_NUMBER[0]       H9DA4GH4JJAMCR_4EM
+//#define CS1_PART_NUMBER[0]       H9DA4GH4JJAMCR_4EM
+
+#define CS0_PART_NUMBER[1]       MT29C4G48MAZAPAKD_5IT
+
+#endif /* __CUSTOM_MEMORYDEVICE__ */

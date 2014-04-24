@@ -1,0 +1,3 @@
+BOARD_USES_YUSU_AVC_USE_EXT_BUF := true
+BOARD_USES_6573_MFV_HW := true
+# MTK, Techien & Jackal, 20100105, Add AVC }

@@ -1,0 +1,2 @@
+
+#define CLOCK_TICK_RATE 26000000

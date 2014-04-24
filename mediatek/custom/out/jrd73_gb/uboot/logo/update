@@ -1,0 +1,24 @@
+#!/bin/bash
+if [ "$1" = "" ]; then
+	echo "Please input resolution,"
+	echo "Such as: qvga, wqvga, wvga, hvga"
+	exit
+fi
+p=$1
+./tool/bmp_to_raw ./temp0.raw ./$p/"${p}_uboot".bmp
+./tool/bmp_to_raw ./temp1.raw ./$p/"${p}_battery1".bmp
+./tool/bmp_to_raw ./temp2.raw ./$p/"${p}_battery2".bmp
+./tool/bmp_to_raw ./temp3.raw ./$p/"${p}_battery3".bmp
+./tool/bmp_to_raw ./temp4.raw ./$p/"${p}_battery4".bmp
+./tool/bmp_to_raw ./temp5.raw ./$p/"${p}_battery5".bmp
+./tool/bmp_to_raw ./temp6.raw ./$p/"${p}_battery6".bmp
+./tool/bmp_to_raw ./temp7.raw ./$p/"${p}_battery7".bmp
+./tool/bmp_to_raw ./temp8.raw ./$p/"${p}_battery8".bmp
+./tool/bmp_to_raw ./temp9.raw ./$p/"${p}_battery9".bmp
+./tool/bmp_to_raw ./temp10.raw ./$p/"${p}_battery10".bmp
+./tool/bmp_to_raw ./temp11.raw ./$p/"${p}_battery_full".bmp
+./tool/bmp_to_raw ./temp12.raw ./$p/"${p}_low_battery".bmp
+./tool/bmp_to_raw ./boot_logo ./$p/"${p}_kernel".bmp
+./tool/zpipe -l 9 ./"${p}.raw" temp0.raw temp1.raw temp2.raw temp3.raw temp4.raw temp5.raw temp6.raw temp7.raw temp8.raw temp9.raw temp10.raw temp11.raw temp12.raw
+rm -rf ./temp0.raw ./temp1.raw ./temp2.raw ./temp3.raw ./temp4.raw ./temp5.raw ./temp6.raw ./temp7.raw ./temp8.raw ./temp9.raw ./temp10.raw ./temp11.raw ./temp12.raw ./bootlogo.raw
+echo "conversion finished"

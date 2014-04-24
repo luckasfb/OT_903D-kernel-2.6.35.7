@@ -1,0 +1,427 @@
+Can NOT find mediatek/source/cgen/
+Can NOT find mediatek/source/cgen/
+Can't open the file ../../custom/jrd73_gb/cgen/inc/custom_cfg_module_file.h at mediatek/build/tools/codegen.pl line 196.
+Can't open the file ../../custom/jrd73_gb/cgen/inc/custom_cfg_module_file.h at mediatek/build/tools/codegen.pl line 196.
+Can't open the file ../../custom/jrd73_gb/cgen/inc/custom_cfg_module_file.h at mediatek/build/tools/codegen.pl line 196.
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hx8357B: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
+gcc: hi253_yuv: No such file or directory
+gcc: ili9340: No such file or directory
+gcc: r61526: No such file or directory
+./Cgen -c ./apeditor/app_temp_db ./cgencfg/tgt_cnf ./cgencfg/pc_cnf ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+./Cgen -cm ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./APDB2_MT6573_S01_ALPS.GB.JRD2_SP_W11.43 ./apeditor/app_temp_db ./APDB_MT6573_S01_ALPS.GB.JRD2_SP_W11.43_ENUM >./Cgen_db.err
+codegen process is DONE successfully!
